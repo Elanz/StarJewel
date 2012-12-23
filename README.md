@@ -5,7 +5,9 @@ Match-3 RPG style iOS game engine
 
 This is the source code to the Match-3 RPG engine I describe in a series of articles on my blog:
 
-
+(Part 1): http://www.200monkeys.com/index.php/2012/12/23/cloning-puzzle-and-dragons/
+(Part 2): http://www.200monkeys.com/index.php/2012/12/23/cloning-puzzle-and-dragons-board-setup-and-touch-events/
+(Part 3): http://www.200monkeys.com/index.php/2012/12/23/cloning-puzzle-and-dragons-detecting-matches-and-refilling-the-board/
 
 This engine is not a complete game and I don't intend to ever finish it, it was just an experiment
 to better understand how the mechanics of these games work.  Feel free to take from it or finish it yourself.
