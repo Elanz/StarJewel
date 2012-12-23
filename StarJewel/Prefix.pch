@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+
+#define color_none 0
+#define color_purple 1
+#define color_yellow 2
+#define color_pink 3
+#define color_red 4
+#define color_blue 5
+#define color_green 6
