@@ -13,7 +13,7 @@ to better understand how the mechanics of these games work.  Feel free to take f
 This repository contains a copy of Cocos2d to ensure that you can build it, Cocos2d is covered by its
 own license, found here: http://www.cocos2d-iphone.org/wiki/doku.php/license
 
-The rest of the code I release under the following license:
+The rest of the code and assets I release under the following license:
 
 This is free and unencumbered software released into the public domain.
 
